@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+
+  "name": "Quick Media launcher",
+  "description": "It Quickly launches My Media",
+  "version": "1.0.0",
+  "icons": { "577": "icon_128.png" },
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
